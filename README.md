@@ -1,2 +1,2 @@
-# DCmotor_simulation
- Zhejiang University Modeling and analysis of motor system
+# 直流电机仿真
+浙江大学电机系统建模与分析
